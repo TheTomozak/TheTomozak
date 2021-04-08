@@ -2,8 +2,8 @@
 
 ## I'm a Student!
 - 🌱 I’m currently learning everything 🤣
-- 💻 Now I'm learning more about web application in Java and JS
-- 🥅 2020 Goals: Learn a lot about web application using Spring Framework
+- 💻 Now I'm learning more about SpringBoot and its frameworks/libraries (I'm a backend developer in an engineering project at University)
+- 🥅 2021 Goals: Learn a lot about web application using Spring Framework
 - ⚡ Fun fact: I love to play game and ride on my electric skateboard 🛹
 
 ### Connect with me:
