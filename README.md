@@ -32,7 +32,6 @@
 
 <img align="left" alt="TheTomozak's Github Stats" src="https://github-readme-stats.vercel.app/api?username=TheTomozak&show_icons=true&hide_border=true&theme=tokyonight" />
 
-<img align="right" alt="TheTomozak's Top Languages Card" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheTomozak&show_icons=true&hide_border=true&theme=tokyonight" />
 
 
 [javawebsite]: https://docs.oracle.com/en/java/
